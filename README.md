@@ -1,5 +1,7 @@
 # Boggle
 
+<img width="224" alt="Screenshot 2024-03-28 at 2 26 17 AM" src="https://github.com/mar19a/Boggle/assets/84360137/c6ffefd6-5702-4d32-91e8-28831813e9fc">
+
 ## Overview
 
 This game challenges players to form words from a grid of letters. Points are scored based on the letters used, with special bonuses for certain consonants. The game checks words against a comprehensive English dictionary. 
